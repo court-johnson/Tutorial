@@ -1,3 +1,3 @@
-# Tutorial
+# GitHub Tutorial
 
-This is my tutorial repository.
+Practing opening repository and pushing to GitHub
